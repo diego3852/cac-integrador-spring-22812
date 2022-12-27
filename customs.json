@@ -1,0 +1,16 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {},
+        "th:src": {},
+        "sd:pagination": {},
+        "th:inline": {},
+        "th:each": {
+            "context": "div"
+        },
+        "th:href": {},
+        "layout:fragment": {},
+        "sd:pagination-sumary": {},
+        "th:with": {}
+    }
+}
